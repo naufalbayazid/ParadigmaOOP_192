@@ -10,3 +10,4 @@ int main() {
 	delete varManusia;
 	return 0;
 }
+ 
